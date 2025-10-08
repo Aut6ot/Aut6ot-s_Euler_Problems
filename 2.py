@@ -15,5 +15,3 @@ def even_fib():
 
 
 even_fib()
-
-
